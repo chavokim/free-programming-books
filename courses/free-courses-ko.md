@@ -43,6 +43,7 @@
 
 ### Algorithms & Data Structures
 
+* [알고리즘 기초](https://www.codetree.ai/curriculums/4) (Python, C++, Java, Javascript, Kotlin 제공)
 * [실전 알고리즘 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
 * [알고리즘 강좌](https://www.youtube.com/playlist?list=PLNvbgg5to7cfAx80VeQFW1Sq1mHGfiECo) (부경대 권오흠)
 * [이상진의 자료구조](https://www.youtube.com/playlist?list=PL7mmuO705dG12pP82RPUR3wdD5dbYu9gZ)
